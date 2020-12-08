@@ -1,8 +1,8 @@
 <?php
 ob_start();
-define('API_KEY','951462446:AAGfLdbUpIrierJJHld_T6ppURNnLPc1QyA'); // botni tokeni kiritilsin
+define('API_KEY','1459972429:AAFoz_NrcLLLrwD-ixm5_bmhElaxyYYqhxA'); // botni tokeni kiritilsin
 $admin = "550584399"; //admin id
-$bot = "Earns_MoneyBot"; //bot ismi
+$bot = "Pull to'pla"; //bot ismi
 $kanalimz ="@Erkaklar_Blogi"; //kanal useri
    function del($nomi){
    array_map('unlink', glob("$nomi"));
